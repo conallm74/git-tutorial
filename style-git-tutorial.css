@@ -27,3 +27,16 @@ body {
     text-decoration: none;
     color: #D9D9D9; 
   }
+
+  footer {
+    background-color: grey;
+    padding: 4px 4px 16px 4px;
+  }
+  
+  footer a {
+    color: white;
+  }
+  
+  footer a:hover {
+    color: #D9D9D9;
+  }
